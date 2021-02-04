@@ -1,0 +1,9 @@
+DEF_START_STR   [
+DEF_END_STR     ]
+
+DEF_PLUS        + | plus
+DEF_MINUS       - | minus
+DEF_MULTIPLY    * | mul
+DEF_DEVIDE      / | dev
+DEF_SQUARED     ** | ^ and squ
+DEF_ROOT        // | root

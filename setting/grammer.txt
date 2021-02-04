@@ -1,0 +1,10 @@
+SET_USE_BRACKET NO  #YES or NO
+SET_USE_BRACE   NO  #YES or HALF_START or HALF_END or NO
+
+DEF_PRINT       log< ?(?><EXER 1><)?>
+message         <1>
+
+DEF_FOR         for< ?(?><SET?VAR? 1>;<COMP?VAR? 2>;<SET 3><)?>
+first_val       <1>
+comparison      <2>
+amplification   <3>
